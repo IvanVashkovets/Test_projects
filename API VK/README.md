@@ -5,6 +5,8 @@
 
 [Посмотреть Jupyter Notebook project](https://github.com/IvanVashkovets/Test_projects/blob/main/API%20VK/API_test.ipynb)
 
+[Посмотреть CSV](https://github.com/IvanVashkovets/Test_projects/blob/main/API%20VK/posts.csv)
+
 [К профилю](https://github.com/IvanVashkovets)
 
 ## Описание
@@ -17,3 +19,5 @@
 
 ## Stack
 Jupyter Notebook, Python, API, SQLite
+
+
